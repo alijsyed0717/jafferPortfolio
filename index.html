@@ -24,6 +24,13 @@
     <link rel="stylesheet" href="assets/css/main.css">
     <style>
         .hero-img-wrap img.profile-photo { width: 100%; max-width: 340px; aspect-ratio: 1 / 1; object-fit: cover; border-radius: 12px; display: block; position: relative; z-index: 2; }
+        .hero-wrap div.hero-img-wrap { position: relative; left: auto; bottom: auto; transform: none; height: auto; max-width: 340px; margin: 10px auto 70px auto; }
+        .hero-wrap .hero-img-wrap .img-bg-shape { display: none; }
+        .hero-content div.hero-bottom-wrap { padding-top: 60px; padding-bottom: 30px; }
+        .project-item .project-thumb-2 img { height: auto; }
+        .preloader { display: none !important; }
+        .slide-anim, .fade-in, .fade-top, .fade-bottom, .fade-left, .fade-right, .text-animation-effect *, [data-text-animation] * { opacity: 1 !important; transform: none !important; }
+        @media (max-width: 767px) { .hero-wrap div.hero-img-wrap { max-width: 300px; margin-bottom: 50px; } .hero-content div.hero-bottom-wrap { padding-top: 30px; padding-bottom: 20px; } }
     </style>
 </head>
 
@@ -279,7 +286,7 @@
                     <div class="project-item-wrap mb-50">
                         <div class="project-item">
                             <div class="project-thumb img-zoom">
-                                <img src="assets/img/project/project-img-1.png" alt="Payment Integrity Data Platform">
+                                <img src="assets/img/project/project-banner-payment-integrity.svg" alt="Payment Integrity Data Platform">
                             </div>
                             <div class="project-content">
                                 <h3 class="title"><a href="#projects">Payment Integrity Data Platform</a></h3>
@@ -292,7 +299,7 @@
                         </div>
                         <div class="project-item">
                             <div class="project-thumb img-zoom">
-                                <img src="assets/img/project/project-img-2.png" alt="State Assessment Platforms">
+                                <img src="assets/img/project/project-banner-assessment-platforms.svg" alt="State Assessment Platforms">
                             </div>
                             <div class="project-content">
                                 <h3 class="title"><a href="#projects">State Assessment Platforms</a></h3>
@@ -306,7 +313,7 @@
                     </div>
                     <div class="project-item big-item">
                         <div class="project-thumb project-thumb-2 img-zoom overflow-hidden">
-                            <img src="assets/img/project/project-img-3.png" alt="Claimline Data Toolkit">
+                            <img src="assets/img/project/project-banner-claimline.svg" alt="Claimline Data Toolkit">
                         </div>
                         <div class="project-content">
                             <h3 class="title"><a href="https://github.com/alijsyed0717/claimline-data-toolkit">Claimline Data Toolkit</a></h3>
