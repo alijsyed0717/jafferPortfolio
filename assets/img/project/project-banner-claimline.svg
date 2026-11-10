@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1780" height="700" viewBox="0 0 1780 700">
+  <rect width="1780" height="700" fill="#101010"/>
+  <g stroke="#232323" stroke-width="1">
+    <path d="M0 175 H1780 M0 350 H1780 M0 525 H1780"/>
+    <path d="M445 0 V700 M890 0 V700 M1335 0 V700"/>
+  </g>
+  <g fill="none" stroke="#4d4d4d" stroke-width="2.5">
+    <path d="M1180 470 H1620 M1180 530 H1540 M1180 590 H1620" stroke-dasharray="2 10" stroke-linecap="round"/>
+  </g>
+  <g fill="none" stroke="#ffffff" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M1118 462 l14 16 l26 -30"/>
+    <path d="M1118 522 l14 16 l26 -30"/>
+    <path d="M1118 582 l14 16 l26 -30"/>
+  </g>
+  <rect x="90" y="96" width="16" height="16" fill="#ffffff"/>
+  <text x="122" y="114" font-family="Helvetica, Arial, sans-serif" font-size="26" letter-spacing="7" fill="#c9c9c9">OPEN SOURCE</text>
+  <text x="90" y="330" font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="92" fill="#ffffff">Claimline Data Toolkit</text>
+  <text x="90" y="420" font-family="Helvetica, Arial, sans-serif" font-size="32" fill="#9a9a9a">Data quality and reconciliation for healthcare claims</text>
+  <text x="90" y="492" font-family="Helvetica, Arial, sans-serif" font-size="28" fill="#c9c9c9">Spark &#183; Scala &#183; Python &#183; Kafka</text>
+</svg>

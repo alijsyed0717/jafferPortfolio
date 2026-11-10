@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="865" height="480" viewBox="0 0 865 480">
+  <rect width="865" height="480" fill="#101010"/>
+  <g stroke="#232323" stroke-width="1">
+    <path d="M0 120 H865 M0 240 H865 M0 360 H865"/>
+    <path d="M216 0 V480 M432 0 V480 M648 0 V480"/>
+  </g>
+  <g fill="none" stroke="#4d4d4d" stroke-width="2">
+    <path d="M470 388 H790" stroke-dasharray="2 8" stroke-linecap="round"/>
+  </g>
+  <g>
+    <circle cx="500" cy="388" r="10" fill="#101010" stroke="#ffffff" stroke-width="2"/>
+    <circle cx="615" cy="388" r="10" fill="#101010" stroke="#ffffff" stroke-width="2"/>
+    <circle cx="730" cy="388" r="10" fill="#ffffff"/>
+  </g>
+  <rect x="56" y="52" width="12" height="12" fill="#ffffff"/>
+  <text x="80" y="66" font-family="Helvetica, Arial, sans-serif" font-size="21" letter-spacing="6" fill="#c9c9c9">OPTUM</text>
+  <text x="56" y="212" font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="56" fill="#ffffff">Payment Integrity</text>
+  <text x="56" y="278" font-family="Helvetica, Arial, sans-serif" font-weight="700" font-size="56" fill="#ffffff">Data Platform</text>
+  <text x="56" y="338" font-family="Helvetica, Arial, sans-serif" font-size="24" fill="#9a9a9a">Scala &#183; Apache Spark &#183; Databricks</text>
+</svg>
